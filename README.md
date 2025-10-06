@@ -1,4 +1,11 @@
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/merthanmumcuoglu/merthanmumcuoglu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/merthanmumcuoglu/merthanmumcuoglu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/merthanmumcuoglu/merthanmumcuoglu/output/pacman-contribution-graph.svg">
+</picture>
+
+
 <div align="center">
   <a href="https://open.spotify.com/user/6reuibvk5d3lhlz5t36p9ps7r">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=6reuibvk5d3lhlz5t36p9ps7r&count=5" alt="Spotify recently played"  />
